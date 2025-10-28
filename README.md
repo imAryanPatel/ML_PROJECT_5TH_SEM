@@ -1,7 +1,7 @@
 ﻿# 🌾 Crop Recommendation System
 
 A Machine Learning-powered web application that recommends the best crop to grow based on soil nutrients and environmental conditions.
-# Link:  https://cropyieldprediction-hvk.streamlit.app
+#Link:  https://cropyieldprediction-hvk.streamlit.app
 
 ## 📋 Features
 
@@ -181,4 +181,5 @@ Created with ❤️ for precision agriculture and smart farming
 ---
 
 **Happy Farming! 🌱**
+
 
